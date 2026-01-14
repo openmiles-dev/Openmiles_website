@@ -1,0 +1,6 @@
+# Openmiles Website Assets
+*.log
+.DS_Store
+Thumbs.db
+node_modules/
+.env
